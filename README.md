@@ -8,10 +8,13 @@
   <a href="https://www.instagram.com/emreustunnnn/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+    <a href="https://www.instagram.com/emreustunnnn/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 <h1>
-  Hello, I'm Emre Üstün
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br> I'm Emre
+  
 </h1>
 </div>
 
@@ -30,10 +33,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-emre-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-### :hammer_and_wrench: Languages and Tools :
+
 </div>
 
 ---
+### :hammer_and_wrench: Languages and Tools :
 
 
 <div>
