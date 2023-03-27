@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-<h1>
-  Hi   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br> I'm Emre
-</h1>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=2000&center=true&width=600&height=70&lines=Hello+Everyone!;I'm+Emre+%C3%9Cst%C3%BCn." alt="Typing SVG" /></a>
+
 </div>
 
 
